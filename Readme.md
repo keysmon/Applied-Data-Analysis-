@@ -5,7 +5,7 @@
 1. Generating Gaussian Dataset and Data classes
 2. Bayesian Classification: A prior probabilities, Loss functions, and impacts of outliers on decision boundaries
 3. Implementation of neural networks and their decision boundaries.
-4. DImensionality Reduction: PCA and Fisher Discriminant
+4. Dimensionality Reduction: PCA and Fisher Discriminant
 5. Unbalanced Dataset
 6. Data Normalization
 7. Feature Correlation and mutual information
